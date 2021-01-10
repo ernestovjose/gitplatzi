@@ -6,9 +6,6 @@ esto tecnicamente seria el 4 commit
 
 esto entrara y saldra del stager gracias a git reset head
 
-<<<<<<< HEAD
 esto colisionara con los cambios realizados en larama
-=======
 
 esto ira en la nueva branch llamada larama
->>>>>>> larama
