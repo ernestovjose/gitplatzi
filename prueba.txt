@@ -2,3 +2,6 @@ hola esta es una prueba de git
 
 Aqui estamos agregando cambios luego de un checkout
 esto tecnicamente seria el 4 commit
+
+
+esto entrara y saldra del stager gracias a git reset head
